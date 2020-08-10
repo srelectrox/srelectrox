@@ -1,27 +1,6 @@
 /* =============================================================================
    My CSS
    ========================================================================== */
-
-/* ---- base ---- */
-
-html,body{ 
-	background:#595959;
-}
-
-html{
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-}
-
-body{
-  font:normal 75% Arial, Helvetica, sans-serif;
-}
-
-canvas{
-  display:block;
-  vertical-align:bottom;
-}
-
-
 /* ---- stats.js ---- */
 
 .count-particles{
